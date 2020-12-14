@@ -1,0 +1,39 @@
+_repo: Ashes-Cenere-A-Sardinian-Story_63962
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wylde, Katharine
+    alias: Colvill, Helen Hester
+    birthdate: 1854
+    gutenberg_agent_id: '47609'
+    url: http://www.gutenberg.org/2009/agents/47609
+creator:
+  author:
+    agent_name: Deledda, Grazia
+    aliases:
+    - Madesani, Grazia Deledda
+    - Deledda, Maria Grazia Cosima
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '33472'
+    url: http://www.gutenberg.org/2009/agents/33472
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Grazia_Deledda
+    - https://it.wikipedia.org/wiki/Grazia_Deledda
+description: ''
+gutenberg_issued: '2020-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Parent and child -- Fiction'
+- !lcsh 'Unmarried mothers -- Fiction'
+- !lcsh 'Sardinia (Italy) -- Social life and customs -- Fiction'
+- GITenberg
+title: 'Ashes (Cenere): A Sardinian Story'
+url: http://www.gutenberg.org/ebooks/63962
